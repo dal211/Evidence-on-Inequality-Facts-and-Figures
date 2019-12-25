@@ -1,4 +1,4 @@
-# Wealth-and-Income-Inequality-Paper
+# Evidence-on-Inequality-Facts-and-Figures
 Group research paper in Macroeconomic Theory class.
 -> Read it here! https://github.com/dal211/Wealth-and-Income-Inequality-Paper/blob/master/EC502_Final_Project.pdf
 
