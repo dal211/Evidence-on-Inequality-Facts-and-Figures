@@ -13,8 +13,9 @@ Third, we turn to inequality in income and compare inequality as measured by the
 Coefficient to share of labor compensation in GDP across developed countries. Finally,
 to dive deeper into the drivers of income inequality, we will look into wages, output, and
 employment divided by high-tech and non-high-tech industries.  
+-> Read it here! https://github.com/dal211/Wealth-and-Income-Inequality-Paper/blob/master/EC502_Final_Project.pdf
 
-- Unique contribution is Fact #2: The bottom 50% of households suffered higher losses in net worth4 during the
+- My unique contribution is Fact #2: The bottom 50% of households suffered higher losses in net worth4 during the
 period of the Great Recession than the top 10% of households, further deepening the
 divide in wealth inequality relative to before. 
 
